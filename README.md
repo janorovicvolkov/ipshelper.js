@@ -10,7 +10,7 @@ IPSHelper bisa digunakan jika pengguna merupakan seorang petugas IPS, ataupun me
 Jika Anda tidak yakin apakah Anda mengalami bug berbasis IPSHelper, Anda sebaiknya mencoba bertanya terlebih dahulu ke pengembang. Untuk permintaan fitur atau perubahan sederhana (misalnya, templat dihapus atau diganti namanya), silakan buka masalah atau tarik permintaan di sini, tetapi untuk perubahan yang lebih signifikan, pertimbangkan untuk mendiskusikan ide tersebut kepada pengembang dan halaman relevan lainnya terlebih dahulu untuk memastikan adanya konsensus untuk perubahan tersebut.  
 
 ## Lisensi
-Perkakas ini dirilis di bawah lisensi GNU Public License.
+Perkakas ini diberi lisensi **GNU General Public License v2**.
 
 [Wikipedia:IPSHelper.js]: 
 https://id.wikipedia.org/wiki/Wikipedia:IPSHelper.js
